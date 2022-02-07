@@ -313,10 +313,10 @@
         },
         "django-recaptcha": {
             "hashes": [
-                "sha256:567784963fd5400feaf92e8951d8dbbbdb4b4c48a76e225d4baa63a2c9d2cd8c"
+                "sha256:1aed69fd6ac8fd9e99e52665392ae6748f8b6339ace656fad779fe0c6c915a52",
+                "sha256:253197051288923cae675d7eff91b619e3775311292a5dbaf27a8a55ffebc670"
             ],
-            "index": "pypi",
-            "version": "==2.0.6"
+            "version": "==3.0.0"
         },
         "django-redis": {
             "hashes": [
