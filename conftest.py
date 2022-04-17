@@ -7,6 +7,7 @@ from rolepermissions.roles import assign_role
 from pythonpro.cohorts.models import Cohort
 
 #
+#
 @pytest.fixture
 def fake():
     return Faker('pt_BR')
